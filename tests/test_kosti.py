@@ -1,8 +1,4 @@
-import sys
-sys.path.insert(0, "../kostiP")
-
-
-from kosti import *
+from CICDkosti.kostiP.kosti import *
 
 
 def test_calculate_luck_level1():
