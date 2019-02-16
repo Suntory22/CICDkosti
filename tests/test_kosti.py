@@ -1,4 +1,4 @@
-from CICDkosti.kostiP.kosti import *
+from kostiP.kosti import *
 
 
 def test_calculate_luck_level1():
