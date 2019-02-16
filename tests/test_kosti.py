@@ -1,4 +1,4 @@
-from home.travis.build.Suntory22.CICDkosti.kostiP.kosti import *
+from ..kostiP import *
 
 
 def test_calculate_luck_level1():
