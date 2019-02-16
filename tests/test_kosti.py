@@ -1,4 +1,8 @@
-from CICDkosti.kostiP.kosti import *
+import sys
+sys.path.insert(0, 'CICDkosti/kostiP')
+
+
+import kosti
 
 
 def test_calculate_luck_level1():
