@@ -1,4 +1,9 @@
 - name: python
   exclude:
-    - .*/__pycache__/.*
     - /venv/.*
+  kostiP:
+    exclude:
+      - /__pycache__/.*
+  tests:
+    exclude:
+      - /__pycache__/.*
