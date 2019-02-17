@@ -1,2 +1,4 @@
-exclude: 
-- /venv/.*
+- name: python
+  exclude:
+    - .*/__pycache__/.*
+    - /venv/.*
