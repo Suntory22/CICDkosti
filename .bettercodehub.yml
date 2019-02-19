@@ -1,7 +1,3 @@
 component_depth: 1
 languages:
 - python
-exclude:
-- /venv/.*
-- /tests/__pycache__/.*
-- /kostiP/__pycache__/.*
