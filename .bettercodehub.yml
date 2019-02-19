@@ -1,0 +1,6 @@
+languages:
+- python
+exclude:
+- /venv/.*
+- /tests/__pycache__/.*
+- /kostiP/__pycache__/.*
